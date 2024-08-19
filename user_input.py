@@ -1,4 +1,3 @@
-# Python-assignment
 
 
 # Ask the user for their name
